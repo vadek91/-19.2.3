@@ -1,5 +1,5 @@
 import pytest
-from app.calculator import Calculator
+from app.calculator import Calculato
 
 class TestCalc:
     def setup(self):
